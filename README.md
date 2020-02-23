@@ -1,43 +1,49 @@
-# LT-Portfolio
+# BASIC PORTFOLIO
 
-Descripton
+## DESCRIPTION
 
 This is a portfolio of the work created while attending the Triology Educations Services' Full-Stack Coding Bootcamp.
 
+<br>
 
-Table of Contents
-1. About Me page
-2. Portfolio page
-3. Contact page
+## Table of Contents
+1.  [Usage](#usage)
+2.  [Credits](#credits)
+3.  [Badges](#badges)
 
-Installation
 
-No installion required.
 
-Usage
+## USAGE
 
-To showcase works created while attending the bootcamp.
+To provide potential employers with a portfolio to showcase my projects.
 
-Credits
+<br>
 
-These programs were used to code the pages within this portfolio.
+### CREDITS
 
-w3schools.com
+The following programs were used to code the pages within this portfolio.
 
-w3docsl.com
+ * *Navigation Links*: w3schools.com
 
-codecademy.com
+ * *Form Setup*: codecademy.com
 
-Unsplash.com
+ * *Background*: Unsplash.com
 
-the-art-of-the-web.com
+ * *Sticky Footer*: the-art-of-the-web.com
 
-License
+<br>
 
-No licensing at this time.
+### BADGES
 
-Badges
+[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://lturner19.github.io/Basic_Portfolio/)
 
-Contributing
 
-Tests
+[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
+
+<br>
+
+#### License
+
+No license at this time.
+
+
