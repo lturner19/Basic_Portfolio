@@ -28,6 +28,7 @@ This is a portfolio of the work created while attending the Triology Educations 
 
      * This currently will not send information anywhere, a future feature to work on.
 
+<br>
 
 ## USAGE
 
