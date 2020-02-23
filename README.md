@@ -11,6 +11,22 @@ This is a portfolio of the work created while attending the Triology Educations 
 2.  [Credits](#credits)
 3.  [Badges](#badges)
 
+<br>
+
+## FEATURES
+
+ This portfolio has three pages for the user to browse through.  
+  1. About Me
+
+     * Provides information about my life.
+
+  2. Portfolio
+
+     * Currently holds placeholder images and titles.
+
+  3. Contact 
+
+     * This currently will not send information anywhere, a future feature to work on.
 
 
 ## USAGE
